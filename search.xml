@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2020/04/10/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>《理想国》之读书笔记</title>
+    <url>/2020/04/06/%E3%80%8A%E7%90%86%E6%83%B3%E5%9B%BD%E3%80%8B%E4%B9%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</url>
+    <content><![CDATA[<p>本书通过苏格拉底和他人的辩论对话，逐步解答什么是正义？理想国就什么样子，应该怎样实现理想国等等问题。佩服苏格拉底超强的辩证术，更感慨2500年前的雅典，人们的思想竟已如此深遂睿智，书中讨论的问题哪怕今天的人们依然懵懂，解答的方案哪怕今天的社会依然受用。</p>
+<a id="more"></a>
+<p><img src="/images/reading/lxg.jpg" alt=""><br>多说无益，下面直奔主题。<br>有人说，“有话实说，拿了人家东西照还”是正义。苏格拉底回答：如果你向朋友借了一把刀，过了一阵子，在归还的时候，发现朋友已经疯了。这个时候，你是实话告诉朋友他是疯子，并把刀还给他吗？这当然不能，特别是刀给一个疯子后果不堪设想，所以有话实话，拿了人家东西照还并不是正义。<br>有人说欠债还债就是正义（这里的债并不是单指债务，而是指一切义务）。苏格拉底回答：对于善的东西，确实应该还回去，比如别人帮助你，你应该帮回去。但是如果别人打了你，你也应该打回去吗？如果打回去，就是伤害了别人，正义的人是不可能做出伤害别人这种不正义的事，所以欠债还债不是正义。<br>有人说“帮助朋友，伤害敌人”就是正义。苏格拉底答：如果朋友是坏人，帮助朋友就是做了坏事，如果敌人是善人，那么伤害敌人就是伤害善人，这都是不正义的事。所以帮助朋友伤害敌人并不是正义。</p>
+]]></content>
+      <categories>
+        <category>读书笔记</category>
+        <category>2019</category>
+      </categories>
+      <tags>
+        <tag>哲学</tag>
+      </tags>
+  </entry>
+</search>
